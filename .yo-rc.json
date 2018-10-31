@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ODc4NzEyNDEwOTlkZDY3MjA1ZDUzNDFmMTExNzQ1MWUyMzY4ZWRhYTYyNDE5YTM0NDdmZGY1NTQ3YjhlZDhiNDkwZWZmMGJjNmNjYWJjMGUzOGI0ZTZlN2M4ZTkwNjliZDQzN2U3OGE2NmE2NzNjYjMzODlmMDFmOGIzYjVmYjA="
+  },
+  "git-provider": "GitHub",
+  "git-company": "rmariami",
+  "repository-name": "store"
+}
